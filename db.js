@@ -1,1 +1,0 @@
-{"name":"cobranca-api","version":"1.0.0","type":"module","dependencies":{"express":"^4","cors":"^2","helmet":"^7","better-sqlite3":"^9","dotenv":"^16","jsonwebtoken":"^9","bcrypt":"^5","express-rate-limit":"^7"}}
